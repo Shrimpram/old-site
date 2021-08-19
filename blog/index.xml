@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Shreeram Modi</title>
+    <link>https://shrimpram.github.io/blog/</link>
+    <description>Recent content in Blog on Shreeram Modi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2021, Shreeram Modi.</copyright>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://shrimpram.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isaac 2</title>
+      <link>https://shrimpram.github.io/blog/isaac-2/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrimpram.github.io/blog/isaac-2/</guid>
+      <description>1
+Isaac 2 is a text adventure game I worked on over the summer of 2020. I originally got the idea to make a text adventure game after playing &amp;ldquo;Stories Untold&amp;rdquo;2. The main gameplay element in that game was you playing an ever unfolding story but interacting with each &amp;ldquo;chapter&amp;rdquo; via different game genres. One chapter would be a puzzle game, the next one a first person horror, and one of them was a text adventure.</description>
+    </item>
+    
+  </channel>
+</rss>
